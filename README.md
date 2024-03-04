@@ -1,6 +1,6 @@
 ## WireGuard client for routers with Padavan based firmware
 
-### EN
+### EN-US
 
 0. You will need a firmware with WireGuard support, like [padavan-ng from Alexey](https://gitlab.com/dm38/padavan-ng), on your router up and running
 1. Clone this repo: `git clone https://github.com/shvchk/padavan-wireguard-client.git`
